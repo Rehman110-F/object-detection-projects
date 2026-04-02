@@ -14,7 +14,7 @@ https://github.com/Rehman110-F/object-detection-projects/blob/main/faceMask_dete
 
 | 😷 Mask On | ⚠️ Partial Mask | ❌ No Mask |
 |:-----------:|:---------------:|:----------:|
-| ![Mask On](images/mask_on.jpg) | ![Partial Mask](images/partial_mask.jpg) | ![No Mask](images/no_mask.jpg) |
+| ![Mask On](mask.png) | ![Partial Mask](images/incorrect_mask.png) | ![No Mask](no_mask.png) |
 ---
 
 ## ✨ Features
