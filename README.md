@@ -10,6 +10,11 @@ and classifies three states — **mask on**, **no mask**, and
 
 https://github.com/Rehman110-F/object-detection-projects/blob/main/faceMask_detection/outputs/NewResult.mp4
 
+## 🖼️ Sample Results
+
+| 😷 Mask On | ⚠️ Partial Mask | ❌ No Mask |
+|:-----------:|:---------------:|:----------:|
+| ![Mask On](images/mask_on.jpg) | ![Partial Mask](images/partial_mask.jpg) | ![No Mask](images/no_mask.jpg) |
 ---
 
 ## ✨ Features
