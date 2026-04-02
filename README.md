@@ -8,7 +8,7 @@ and classifies three states — **mask on**, **no mask**, and
 
 ## 🎬 Demo
 
-https://github.com/your-username/your-repo/assets/your-user-id/your-video.mp4
+https://github.com/Rehman110-F/object-detection-projects/blob/main/faceMask_detection/outputs/NewResult.mp4
 
 ---
 
